@@ -1,2 +1,2 @@
-# Desarrollo-WEb
-Trabajos hechos durante la clase de Desarrollo de Aplicaciones WEB en el semestre de Otoño 2022
+# summer_inst_basic
+These are the exercise for the basics on javascript
